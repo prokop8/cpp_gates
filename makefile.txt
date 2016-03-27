@@ -1,0 +1,6 @@
+# Pavel Prakapchuk 272727 2I4
+# Mikhail Khombak 272728 2I4
+# Projekt 3
+Projekt3 : main.cpp bramka.h bramka_nand.h uklad.h urzadzenie.h urzadzenie_generator.h urzadzenie_oscyloskop.h 
+	
+	g++ -Wall -o Projekt3 main.cpp
